@@ -1,4 +1,5 @@
 # Sample_1
+<img src="Images/Day0_Images/HeadImage.PNG">
 
 
-https://github.com/Bharti-Navlani/Sample_1/blob/main/Images/Day0_Images/HeadImage.PNG
+
